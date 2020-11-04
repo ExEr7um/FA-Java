@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Задание 0/Задание 0.iml" filepath="$PROJECT_DIR$/Задание 0/Задание 0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Задание 1/Задача 1/Задача 1.iml" filepath="$PROJECT_DIR$/Задание 1/Задача 1/Задача 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Задание 1/Задача 2/Задача 2.iml" filepath="$PROJECT_DIR$/Задание 1/Задача 2/Задача 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Задание 1/Задача 3/Задача 3.iml" filepath="$PROJECT_DIR$/Задание 1/Задача 3/Задача 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Задание 1/Задача 4/Задача 4.iml" filepath="$PROJECT_DIR$/Задание 1/Задача 4/Задача 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Контрольная работа 1/Контрольная работа 1.iml" filepath="$PROJECT_DIR$/Контрольная работа 1/Контрольная работа 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Контрольная работа 2/Контрольная работа 2.iml" filepath="$PROJECT_DIR$/Контрольная работа 2/Контрольная работа 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Современные технологии программирования.iml" filepath="$PROJECT_DIR$/.idea/Современные технологии программирования.iml" />
+    </modules>
+  </component>
+</project>
