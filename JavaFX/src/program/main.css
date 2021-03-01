@@ -1,0 +1,8 @@
+.info-label {
+    -fx-text-fill: GREY;
+}
+
+.button-rounded {
+    -fx-text-fill: WHITE;
+    -fx-background-color: #9999FF;
+}
